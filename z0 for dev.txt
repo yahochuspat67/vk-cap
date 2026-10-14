@@ -1,0 +1,4 @@
+========================
+Сорцы ядра
+========================
+https://github.com/comp18man/vk-capsula-mini-a113x-linux
